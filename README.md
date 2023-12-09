@@ -1,6 +1,6 @@
 Hi There!
 
-I'm Kevin. I like databases and occasionally contribute to open-source.
+I'm Kevin. I like databases and cloud infra, and occasionally contribute to open-source.
 
 Some past contributions:
 - [QuestDB](https://github.com/questdb/questdb/commits?author=kevinmingtarja)
