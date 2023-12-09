@@ -8,3 +8,5 @@ Some past contributions:
 - [RocksDB](https://github.com/facebook/rocksdb/commits?author=kevinmingtarja)
 - [KEDA](https://github.com/kedacore/keda/commits?author=kevinmingtarja)
 - [stripe/pg-schema-diff](https://github.com/stripe/pg-schema-diff/commits?author=kevinmingtarja)
+
+I recently started writing as well at https://www.kevinmingtarja.com.
