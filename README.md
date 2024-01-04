@@ -1,6 +1,6 @@
 Hi There!
 
-I'm Kevin. I like databases and cloud infra, and occasionally contribute to open-source.
+I'm Kevin. I like databases and cloud infra, mostly work with Go and Kubernetes in my day-to-day, and occasionally contribute to open-source.
 
 Some past contributions:
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse/commits?author=kevinmingtarja)
