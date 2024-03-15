@@ -6,6 +6,7 @@ Some past contributions:
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse/commits?author=kevinmingtarja)
 - [CockroachDB](https://github.com/cockroachdb/cockroach/commits?author=kevinmingtarja)
 - [KServe](https://github.com/kserve/kserve/commits?author=kevinmingtarja)
+- [microsoft/aici](https://github.com/microsoft/aici/commits?author=kevinmingtarja)
 - [QuestDB](https://github.com/questdb/questdb/commits?author=kevinmingtarja)
 - [RocksDB](https://github.com/facebook/rocksdb/commits?author=kevinmingtarja)
 - [KEDA](https://github.com/kedacore/keda/commits?author=kevinmingtarja)
