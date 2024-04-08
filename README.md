@@ -11,6 +11,7 @@ Some past contributions:
 - [RocksDB](https://github.com/facebook/rocksdb/commits?author=kevinmingtarja)
 - [KEDA](https://github.com/kedacore/keda/commits?author=kevinmingtarja)
 - [Prometheus](https://github.com/prometheus/prometheus/commits?author=kevinmingtarja)
+- [Neon](https://github.com/neondatabase/neon/commits?author=kevinmingtarja)
 - [Apache Arrow](https://github.com/apache/arrow/commits?author=kevinmingtarja)
 
 I recently started writing as well at https://www.kevinmingtarja.com.
