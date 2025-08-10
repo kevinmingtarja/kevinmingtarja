@@ -11,7 +11,8 @@ Some past contributions:
   - [RocksDB](https://github.com/facebook/rocksdb/commits?author=kevinmingtarja)
   - [Neon](https://github.com/neondatabase/neon/commits?author=kevinmingtarja)
   - [Prometheus](https://github.com/prometheus/prometheus/commits?author=kevinmingtarja)
-2. Kubernetes
+2. Cloud Infra / Kubernetes
+  - [SkyPilot](https://github.com/skypilot-org/skypilot/commits?author=kevinmingtarja)
   - [KServe](https://github.com/kserve/kserve/commits?author=kevinmingtarja)
   - [KEDA](https://github.com/kedacore/keda/commits?author=kevinmingtarja)
 3. Frontend tooling (linter, formatter, etc)
