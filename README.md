@@ -16,6 +16,7 @@ Some past contributions:
   - [SkyPilot](https://github.com/skypilot-org/skypilot/commits?author=kevinmingtarja)
   - [KServe](https://github.com/kserve/kserve/commits?author=kevinmingtarja)
   - [KEDA](https://github.com/kedacore/keda/commits?author=kevinmingtarja)
+  - [Buildx (Docker)](https://github.com/docker/buildx/commits/master/?author=kevinmingtarja)
 3. Frontend tooling (linter, formatter, etc)
   - [Biome](https://github.com/biomejs/biome/commits?author=kevinmingtarja)
 
