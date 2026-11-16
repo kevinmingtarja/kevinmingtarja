@@ -13,8 +13,9 @@ Some past contributions:
   - [Prometheus](https://github.com/prometheus/prometheus/commits?author=kevinmingtarja)
 2. Cloud/AI Infra
   - [gVisor](https://github.com/google/gvisor/commits?author=kevinmingtarja)
-  - [SkyPilot](https://github.com/skypilot-org/skypilot/commits?author=kevinmingtarja)
+  - [Kueue](https://github.com/kubernetes-sigs/kueue/commits?author=kevinmingtarja)
   - [NVSentinel](https://github.com/NVIDIA/NVSentinel/commits/main/?author=kevinmingtarja)
+  - [SkyPilot](https://github.com/skypilot-org/skypilot/commits?author=kevinmingtarja)
   - [KServe](https://github.com/kserve/kserve/commits?author=kevinmingtarja)
   - [KEDA](https://github.com/kedacore/keda/commits?author=kevinmingtarja)
   - [Buildx (Docker)](https://github.com/docker/buildx/commits/master/?author=kevinmingtarja)
