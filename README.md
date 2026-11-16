@@ -3,15 +3,7 @@ Hi There!
 I'm Kevin. I like databases and cloud infra, mostly work with Go and Kubernetes in my day-to-day, and occasionally contribute to open-source.
 
 Some past contributions:
-1. Databases
-  - [ClickHouse](https://github.com/ClickHouse/ClickHouse/commits?author=kevinmingtarja)
-  - [CockroachDB](https://github.com/cockroachdb/cockroach/commits?author=kevinmingtarja)
-  - [DataFusion](https://github.com/apache/datafusion/commits?author=kevinmingtarja)
-  - [QuestDB](https://github.com/questdb/questdb/commits?author=kevinmingtarja)
-  - [RocksDB](https://github.com/facebook/rocksdb/commits?author=kevinmingtarja)
-  - [Neon](https://github.com/neondatabase/neon/commits?author=kevinmingtarja)
-  - [Prometheus](https://github.com/prometheus/prometheus/commits?author=kevinmingtarja)
-2. Cloud/AI Infra
+1. Cloud/AI Infra
   - [gVisor](https://github.com/google/gvisor/commits?author=kevinmingtarja)
   - [Kueue](https://github.com/kubernetes-sigs/kueue/commits?author=kevinmingtarja)
   - [NVSentinel](https://github.com/NVIDIA/NVSentinel/commits/main/?author=kevinmingtarja)
@@ -19,6 +11,14 @@ Some past contributions:
   - [KServe](https://github.com/kserve/kserve/commits?author=kevinmingtarja)
   - [KEDA](https://github.com/kedacore/keda/commits?author=kevinmingtarja)
   - [Buildx (Docker)](https://github.com/docker/buildx/commits/master/?author=kevinmingtarja)
+2. Databases
+  - [ClickHouse](https://github.com/ClickHouse/ClickHouse/commits?author=kevinmingtarja)
+  - [CockroachDB](https://github.com/cockroachdb/cockroach/commits?author=kevinmingtarja)
+  - [DataFusion](https://github.com/apache/datafusion/commits?author=kevinmingtarja)
+  - [QuestDB](https://github.com/questdb/questdb/commits?author=kevinmingtarja)
+  - [RocksDB](https://github.com/facebook/rocksdb/commits?author=kevinmingtarja)
+  - [Neon](https://github.com/neondatabase/neon/commits?author=kevinmingtarja)
+  - [Prometheus](https://github.com/prometheus/prometheus/commits?author=kevinmingtarja)
 3. Frontend tooling (linter, formatter, etc)
   - [Biome](https://github.com/biomejs/biome/commits?author=kevinmingtarja)
 
